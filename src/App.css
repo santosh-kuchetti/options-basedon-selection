@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.main{
+  height: 150px;
+  width: 450px;
+  border: solid 1px rgb(59, 67, 59);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  background-color: rgba(189, 160, 160, 0.4);
+}
+select{
+  width: 140px;
+  height: 25px;
+  border-radius: 5px;
+}
